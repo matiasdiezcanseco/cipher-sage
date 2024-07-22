@@ -1,4 +1,4 @@
-# Encryption CLI Tool
+# Cipher Sage
 
 This is a friendly command-line interface (CLI) tool that provides encryption functionality using the AES-256 algorithm.
 
@@ -14,7 +14,7 @@ npx cipher-sage
 
 2. The tool will prompt you for the necessary inputs, such as the text to encrypt and the password.
 
-After providing the required inputs, the tool will encrypt or decrypt the text using display the result.
+After providing the required inputs, the tool will encrypt or decrypt the text and display the result.
 
 ## Contributing
 
